@@ -10,12 +10,26 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // counter label
+    @IBOutlet weak var counterLabel: UILabel!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
-
+    
+    @IBAction func tapAwayButton(_ sender: UIButton) {
+        
+        
+    }
+    
+    @IBAction func resetButton(_ sender: Any) {
+        
+        
+    }
+    
 
 }
 

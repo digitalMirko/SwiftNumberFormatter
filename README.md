@@ -14,8 +14,8 @@ Details and the screen cap images of the app in use can be found on <a href="htt
 
 Screen Cap on a iPhone Xr device:(shown below)</br>
 (Left image)App Started.<br>
-(Middle Image)Swipe Right Gesture.<br>
-(Right image)Swipe Up Gesture.<br>
+(Middle Image)"Tap Away" Button Clicked a Few Times to display 13.<br>
+(Right image)"Reset" Button Clicked, Resets the counter to 0.<br>
   <p>
   <img align="left" src="https://github.com/digitalMirko/SwiftNumberFormatter/blob/master/github-iPhoneSwiftNumForDemo01.jpg?raw=true" width="246"/>
   <img align="left" src="https://github.com/digitalMirko/SwiftNumberFormatter/blob/master/github-iPhoneSwiftNumForDemo02.jpg?raw=true" width="246"/>
